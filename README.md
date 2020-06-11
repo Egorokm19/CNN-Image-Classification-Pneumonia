@@ -22,3 +22,8 @@ The architecture of the neural network is presented in the form:
 - second fully connected layer and a multi-variable layer
 
 ![CNN](image_project/CNN.PNG)
+
+We train models on 20 eras, data is generated on the basis of batches for efficiency.
+After training the model, we obtain the average value of losses (using cross_entropy_loss).
+
+![train_model](image_project/train_model.PNG)
