@@ -33,6 +33,14 @@ The results show that the proportion of correct answers of the model relative to
 
 ![train_acc](image_project/train_acc.PNG)
 
+Healthy lung example:
+
+![Healthy](val/NORMAL/NORMAL2-IM-1427-0001.jpeg)
+
+An example of an infected person's lungs:
+
+![infected](val/PNEUMONIA/person1954_bacteria_4886.jpeg)
+
 
 As a result, the model classifies accurately enough, to improve the results, you can use regularization to fine-tune the critical values of weights during training.
 
