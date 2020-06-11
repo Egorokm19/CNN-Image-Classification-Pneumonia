@@ -20,3 +20,4 @@ The architecture of the neural network is presented in the form:
 - second pooling layer
 - first fully connected layer
 - second fully connected layer and a multi-variable layer
+![CNN](https://github.com/Egorokm19/CNN-Image-Classification-Pneumonia/tree/master/image_project/CNN.PNG)
