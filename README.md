@@ -1,5 +1,6 @@
 # CNN-Image-Classification-Pneumonia
 Pneumonia Image Classification from https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+(unfortunately the dataset and model weigh more than 1 gigabyte and therefore are not represented in this repository)
 
 You need to download the dataset from kaggle, and then extract the files (unzip).
 
@@ -28,7 +29,7 @@ After training the model, we obtain the average value of losses (using cross_ent
 
 ![train_model](image_project/train_model.PNG)
 
-The results show that the proportion of correct answers of the model relative to the initial sample (accuracy) is 100% (on the train set) and 86 on the set (test):
+The results show that the proportion of correct answers of the model relative to the initial sample (accuracy) is 100% (on the train set) and 86% on the set (test):
 
 ![train_acc](image_project/train_acc.PNG)
 
