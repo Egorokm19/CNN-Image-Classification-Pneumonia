@@ -27,3 +27,12 @@ We train models on 20 eras, data is generated on the basis of batches for effici
 After training the model, we obtain the average value of losses (using cross_entropy_loss).
 
 ![train_model](image_project/train_model.PNG)
+
+The results show that the proportion of correct answers of the model relative to the initial sample (accuracy) is 100% (on the train set) and 86 on the set (test):
+
+![train_acc](image_project/train_acc.PNG)
+
+
+As a result, the model classifies accurately enough, to improve the results, you can use regularization to fine-tune the critical values of weights during training.
+
+![result](image_project/result.PNG)
