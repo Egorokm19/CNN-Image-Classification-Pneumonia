@@ -2,6 +2,7 @@
 Pneumonia Image Classification from https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 You need to download the dataset from kaggle, and then extract the files (unzip).
+
 unzip /path/to/17810_23812_bundle_archive.zip -d path/to/where
 
 They will receive several directories with data:
